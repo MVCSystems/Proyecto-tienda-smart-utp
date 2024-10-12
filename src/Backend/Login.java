@@ -30,13 +30,5 @@ public class Login {
     }
 
     public static void main(String[] args) {
-        // Ejemplo de uso
-        String email = "juan.perez@example.com";
-        String password = "password123";
-        if (authenticate(email, password)) {
-            System.out.println("Inicio de sesión exitoso");
-        } else {
-            System.out.println("Credenciales incorrectas");
-        }
     }
 }
