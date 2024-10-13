@@ -1,0 +1,9 @@
+controlador\LoginDao.class
+controlador\DatabaseConnection.class
+controlador\CategoriaDAO.class
+com\mycompany\mavenproject1\resources\JakartaEE91Resource.class
+com\mycompany\mavenproject1\JakartaRestConfiguration.class
+controlador\ProductoDAO.class
+controlador\ProductoServlet.class
+controlador\CategoriaServlet.class
+controlador\LoginServlet.class
